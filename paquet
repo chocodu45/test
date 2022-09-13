@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 dpkg-rpm
+=======
+<<<<<<< HEAD
+apt-yum
+=======
+dpkg-rpm
+>>>>>>> paquet-local
+>>>>>>> paquet-distant
