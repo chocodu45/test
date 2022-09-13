@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 apt-yum
+=======
+dpkg-rpm
+>>>>>>> paquet-local
